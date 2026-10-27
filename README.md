@@ -17,7 +17,7 @@ Junta Regular de Saúde · Hospital Naval de Recife
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://mauriston.github.io/jrs/conges/">
+      <a href="https://mauriston.github.io/autoConges/">
         <img src="og/conges.png" alt="CONGES · JRS/HNRe" width="260">
       </a>
     </td>
